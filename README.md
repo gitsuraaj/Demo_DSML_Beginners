@@ -2,4 +2,4 @@
  my first repository
 
 1. My first edit
-edited by Ichchhit
+edited by Gurdeep.
